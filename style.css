@@ -97,7 +97,7 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
-.sortable-list li {
+/* .sortable-list li {
     cursor: move;
     user-select: none;
 }
@@ -105,4 +105,4 @@ ul li span:hover{
 .dragging {
     opacity: 0.5;
     background: #e9ecef;
-}
+} */
